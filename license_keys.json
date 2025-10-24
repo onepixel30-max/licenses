@@ -1,12 +1,1 @@
-{
-  "valid_keys": [
-    {
-      "key": "DOWN-LOAD-1234",
-     
-    },
-    {
-      "key": "USER-2025-KEY",
-     
-    }
-  ]
-}
+{ "valid_keys": ["ABC123-XYZ", "DOWN-LOAD-1234"] }
