@@ -2,13 +2,11 @@
   "valid_keys": [
     {
       "key": "DOWN-LOAD-1234",
-      "expires_utc": "2026-01-31T23:59:59Z",
-      "device": "DESKTOP-Q4SRBSF" 
+     
     },
     {
       "key": "USER-2025-KEY",
-      "expires_utc": "2025-12-31T23:59:59Z",
-      "device": "ANY" 
+     
     }
   ]
 }
